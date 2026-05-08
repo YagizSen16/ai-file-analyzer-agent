@@ -1,0 +1,4 @@
+Artificial intelligence is becoming an important part of modern software systems. 
+AI tools can help users analyze documents, summarize long text, and extract useful information from files. 
+In this project, the system reads a text file, sends the content to an AI model, and returns a structured analysis. 
+The goal is to make file analysis faster, easier, and more organized for users.
